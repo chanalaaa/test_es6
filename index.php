@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title></title>
+    <title>test es6</title>
     <?php include("views/include.php"); ?>
 </head>
 
